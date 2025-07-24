@@ -76,6 +76,9 @@ GAATTCGACCTGGATGAGACCATGGATGTGGCCAGGCACGTGGAGGAACT
 CTTACGCCGACCAATGGACAGTCTTGACTCCCGCCTCTCGCCCCCTGCCG
 GTCTTTTCACCTCTGCCAGAGGCTCCCTCTCATGA
 ```
-Open a new Python Jupyter Notebook. Rename the notebook transcribeDNA.ipynb.
-
-Write a python script that loads the sequence file from the filesystem and “transcribes” the DNA sequence into RNA using a dictionary and writes the RNA sequence to a file. Make sure to check that the input and output sequences are correct and then ask your instructor to test your jupyter notebook.
+### Steps
+*Create a working directory on Palmett02.
+*Open a new Python Jupyter Notebook in your working directory. Rename the notebook 'transcribeDNA.ipynb'.
+*Make a text file in the working directory and paste the STAT5A FASTA sequence into the text file. 
+*Write a python program 'transcribeDNA.ipynb' that loads the sequence file from the filesystem and “transcribes” the DNA sequence into RNA using a dictionary and writes the RNA sequence to a file. Start by writing the algorithm steps as pseudoocode.
+*Verify that the input (DNA) and output (RNA) sequences are correct and then ask your instructor to test your jupyter notebook.
