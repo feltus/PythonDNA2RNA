@@ -80,5 +80,7 @@ GTCTTTTCACCTCTGCCAGAGGCTCCCTCTCATGA
 * Create a working directory on Palmett02.
 * Open a new Python Jupyter Notebook in your working directory. Rename the notebook 'transcribeDNA.ipynb'.
 * Make a text file in the working directory and paste the STAT5A FASTA sequence into the text file. 
-* Write a python program 'transcribeDNA.ipynb' that loads the sequence file from the filesystem and “transcribes” the DNA sequence into RNA using a dictionary and writes the RNA sequence to a file. Start by writing the algorithm steps as pseudoocode.
-* Verify that the input (DNA) and output (RNA) sequences are correct and then ask your instructor to test your jupyter notebook.
+* Write a python program 'transcribeDNA.ipynb' that loads the sequence file from the filesystem and “transcribes” the DNA sequence into RNA using a dictionary and writes the RNA sequence to a file. Start by writing the algorithm steps as pseudoocode (e.g. #Step 1: Open FASTA formatted DNA file).
+* TIP: DO NOT WRITE ANY PYTHON CODE BEFORE YOU HAVE THOUGHT THROUGH THE STEPS IN PSEUDOCODE.
+* TIP: DO not have Prometheus write your code.  Ask for help if you get stuck and make sure you understand each line of your code.  That way, you learn how to code and you don't get fired in a job when they ask you to write code ;).
+* Verify that the input (DNA) and output (RNA) sequences are correct and then turn in your jupyter notebook in Canvas.
